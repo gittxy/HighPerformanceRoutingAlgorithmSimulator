@@ -1,0 +1,2 @@
+# HighPerformanceRoutingAlgorithmSimulator
+用C++写的高性能路由算法模拟器，用于模拟消息的路由过程
