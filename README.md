@@ -6,10 +6,11 @@
 
 
 # 高性能网络模拟器代码流程图
-
+![image](https://github.com/gittxy/HighPerformanceRoutingAlgorithmSimulator/blob/master/%E9%AB%98%E6%80%A7%E8%83%BD%E7%BD%91%E7%BB%9C%E6%A8%A1%E6%8B%9F%E5%99%A8%E4%BB%A3%E7%A0%81%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 
 # 平面自适应无死锁路由算法流程图
+![image](https://github.com/gittxy/HighPerformanceRoutingAlgorithmSimulator/blob/master/%E5%B9%B3%E9%9D%A2%E8%87%AA%E9%80%82%E5%BA%94%E6%97%A0%E6%AD%BB%E9%94%81%E8%B7%AF%E7%94%B1%E7%AE%97%E6%B3%95%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 # Network Structure
 
