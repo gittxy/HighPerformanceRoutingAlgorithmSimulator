@@ -1,5 +1,5 @@
 /*********     
-		9/11/2007,Luo Wei.
+		5/28/2020  Tang Xinyu
 		The definition of message.
 
 

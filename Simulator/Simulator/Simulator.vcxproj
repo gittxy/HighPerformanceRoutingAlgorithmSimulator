@@ -26,7 +26,6 @@
     <ClInclude Include="Q2DTorus.h" />
     <ClInclude Include="Q2DTorusNode.h" />
     <ClInclude Include="Routing.h" />
-    <ClInclude Include="Routing2.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Event.cpp" />
@@ -34,7 +33,6 @@
     <ClCompile Include="Q2DTorus.cpp" />
     <ClCompile Include="Q2DTorusNode.cpp" />
     <ClCompile Include="Routing.cpp" />
-    <ClCompile Include="Routing2.cpp" />
     <ClCompile Include="testfuc.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

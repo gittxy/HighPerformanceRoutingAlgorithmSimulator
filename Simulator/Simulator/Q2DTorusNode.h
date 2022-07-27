@@ -1,5 +1,5 @@
 //  3 dimension torus nodes. 
-//  20/3/2009, Luo Wei.
+//  5/28/2020  Tang Xinyu
 
 #ifndef Q2DTorusNode_H
 #define Q2DTorusNode_H

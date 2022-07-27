@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Routing2.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
     <ClInclude Include="Allrouting.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -53,13 +50,10 @@
     <ClCompile Include="Q2DTorusNode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Routing.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Routing2.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="testfuc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Routing.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
